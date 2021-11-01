@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyb3rsnow
+- 👋 Hi, I’m @Cyb3rsnow, or Chell.
 - 👀 I’m interested in robotics, prostethics and generally using AI to help people.
 - 🌱 I’m currently learning AI and cognitive systems at university.
 - 💞️ I’m looking to collaborate on ...
